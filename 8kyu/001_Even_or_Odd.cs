@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8kyuu
+namespace _8kyu
 {
     internal class _001_Even_or_Odd
     {
